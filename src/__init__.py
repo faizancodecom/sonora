@@ -1,0 +1,3 @@
+"""
+Sonora package initialization.
+"""
