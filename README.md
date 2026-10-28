@@ -54,8 +54,8 @@ The codebase follows a modular design separating the presentation layer, audio p
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/faizancodecom/local-spotify.git
-   cd local-spotify
+   git clone https://github.com/faizancodecom/sonora.git
+   cd sonora
    ```
 
 2. Create and activate a virtual environment:
